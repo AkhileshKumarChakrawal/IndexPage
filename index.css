@@ -1,0 +1,49 @@
+#bookingSection{
+}
+#cardsection , #beforefooter ,  #flagsection{
+    background-color: #d5d5d5;
+}
+.cardpara{
+    font-size: 35px;
+    font-weight: bold;
+    color:#330000;
+}
+
+.numbersection{
+    color: brown;
+}
+.numsection{
+    color: red;
+}
+#footer{
+    background-color:midnightblue ;
+    color: white;
+}
+.footerPara{
+    color: gray;
+}
+.twocolmhead{
+    text-align: center;
+}
+#twocolmtext{
+    background-image: url("https://images.wallpaperscraft.com/image/starry_sky_night_stars_115042_3840x2400.jpg");
+    background-repeat: no-repeat;
+    color: white;
+}
+#twocolmimg{
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+}
+.twocoltext{
+    margin-top: 100px;
+    font-size: 20px;
+}
+@media only screen and (max-width: 1024px) {
+    .buttonfix{
+        margin-bottom: 10px;
+    }
+
+
+}
